@@ -1,4 +1,4 @@
-DOMAIN = "inventory_manager"
+DOMAIN = "med_inventory_manager"
 
 UNDERSCORE = "_"
 SPACE = " "
@@ -10,7 +10,7 @@ CONF_SENSOR_BEFORE_EMPTY = "warning_days_before_empty"
 CONF_PILLS = "pills"
 CONF_ITEM_AGENT = "item_agent"
 
-UNIT = "pcs."
+UNIT = "pcs"
 
 ATTR_DAILY = "daily"
 ATTR_DAYS_REMAINING = "days_remaining"

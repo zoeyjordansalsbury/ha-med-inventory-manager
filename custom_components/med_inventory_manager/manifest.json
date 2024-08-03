@@ -1,0 +1,14 @@
+{
+  "domain": "med_inventory_manager",
+  "name": "Medication Inventory Manager",
+  "codeowners": [
+    "@zoeyjordansalsbury"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/zoeyjordansalsbury/ha-med-inventory-managerr",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/zoeyjordansalsbury/ha-med-inventory-manager/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}

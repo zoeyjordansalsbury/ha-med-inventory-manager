@@ -2,7 +2,7 @@ consume:
   target:
     entity:
       domain: number
-      integration: inventory_manager
+      integration: med_inventory_manager
       supported_features:
         - light.LightEntityFeature.EFFECT
 
