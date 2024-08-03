@@ -76,3 +76,5 @@ This is an excerpt of my `templates.yaml` file, making use of [custom templates,
 In addition to these two template entities (for no less than six different tablet types), this requires `input_number` entities for morning, evening and noon, because -- of course -- the dog gets a different combination of tablets every time (and this also changes from time to time).
 
 Because this is very repetitive and makes all my files unreadable, I created this custom component (also, to find out if I could, and because it was fun).
+
+<a href="https://www.flaticon.com/free-icons/health" title="health icons">Health icons created by Freepik - Flaticon</a>
