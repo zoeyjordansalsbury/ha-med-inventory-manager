@@ -40,7 +40,7 @@ class EmptyPredictionSensor(SensorEntity):
     """Represents a sensor to predict when we run out of supplies, given our daily consumption."""
 
     _attr_has_entity_name = True
-    _attr_name = "Supply empty"
+    _attr_name = "Will Be Empty"
 
     should_poll = False
     device_class = SensorDeviceClass.TIMESTAMP
